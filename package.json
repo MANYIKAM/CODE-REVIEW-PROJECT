@@ -1,0 +1,23 @@
+{
+  "name": "code-review-project",
+  "version": "1.0.0",
+  "description": "Microverse Collaboration Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANYIKAM/CODE-REVIEW-PROJECT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANYIKAM/CODE-REVIEW-PROJECT/issues"
+  },
+  "homepage": "https://github.com/MANYIKAM/CODE-REVIEW-PROJECT#readme",
+  "devDependencies": {
+    "hint": "^7.1.2"
+  }
+}
